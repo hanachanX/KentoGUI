@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 def apply_app_icon(app, ico_name, app_id, folder=None):
-    """app: QApplication / ico_name: 例 'ytdlp.ico' / app_id: 例 'Muramatsu.YtDlpStudio'"""
+    """app: QApplication / ico_name: 例 '    jst.ico' / app_id: 例 'Studio'"""
     try:
         if sys.platform == "win32":
             import ctypes
