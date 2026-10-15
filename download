@@ -1,0 +1,5 @@
+config.json
+解説保存/
+__pycache__/
+kento_error.txt
+*.pyc
